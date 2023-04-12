@@ -1,2 +1,4 @@
 # cath_play
-App Catholic Play
+App Cath Play
+
+Interfaz v0.1.0
